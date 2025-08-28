@@ -12,7 +12,19 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Tech Stack</h2>
+</div>
+
+
+### ** Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ** Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,15 +37,6 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ** Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ** Testing & Quality**
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -67,7 +70,9 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 
 
-##  Achievements & Certifications
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Achievements & Certifications</h2>
+</div>
 
 ###  Professional Certifications
 - **Microsoft Solutions Architect (MCSE)** - Expert Level
@@ -81,7 +86,9 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 ---
 
-##  Current Projects
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Current Projects</h2>
+</div>
 
 <div align="center">
   <table>
@@ -115,7 +122,9 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ---
 
 
-##  Professional Experience
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Professional Experience</h2>
+</div>
 
 ### **Texas Instruments** - *20 Years*
 **Worldwide IT & Supply Chain Systems*
@@ -136,7 +145,9 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 ---
 
-##  Currently Learning
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Currently Learning</h2>
+</div>
 
 - **AI/ML Integration** - Exploring machine learning in healthcare applications
 - **Advanced Kubernetes** - Service mesh and cloud-native patterns
@@ -146,7 +157,9 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 ---
 
-## 📫 Let's Connect!
+<div align="center">
+  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Let's Connect!</h2>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-jeffreys-313b247/" target="_blank">
