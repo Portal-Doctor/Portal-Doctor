@@ -65,9 +65,10 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ## Achievements & Certifications
 
 ### Professional Certifications
-- **Microsoft Solutions Architect (MCSE)**
+- **Microsoft Solutions Architect (MCSE)** - Expert Level
 - **Microsoft Certified Database Administrator (MCDBA)**
 - **Microsoft AI Engineer Associate**
+- **Microsoft AI Fundamentals**
 - **Microsoft Azure Solutions Architect** - Expert
 - **Google Cloud Professional Cloud Architect**
 - **Certified Kubernetes Administrator (CKA)**
@@ -146,14 +147,14 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Portal-Doctor&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Portal-Doctor&theme=radical&hide=contribs,issues,prs,repos" alt="Profile Details" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Portal-Doctor&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Portal-Doctor&theme=radical&hide=html,css,scss,less&include_all_commits=true&count_private=true" alt="Repos per Language" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Feel+free+to+reach+out!;Happy+coding!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Feel+free+to+reach+out!;Happy+coding!" alt="Typing SVG" />
 </div>
 
