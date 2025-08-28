@@ -53,10 +53,6 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ## Achievements & Certifications
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Portal-Doctor&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ### Professional Certifications
 - **Microsoft Solutions Architect (MCSE)** - Expert Level
 - **Microsoft Certified Database Administrator (MCDBA)**
