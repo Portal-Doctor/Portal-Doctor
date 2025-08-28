@@ -8,14 +8,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Supporter;Driving+Emerging+Technologies;Tenacious+Troubleshooter" alt="Typing SVG" />
 </div>
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 years of experience building scalable enterprise applications and optimizing development workflows. I love solving complex problems and creating elegant solutions that make a difference.
+I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer** with over 35 years of experience building scalable enterprise applications and optimizing development workflows. I love solving complex problems and creating elegant solutions that make a difference.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
+### ** Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Backend Development**
+### ** Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,12 +34,14 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ** Testing & Quality**
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-000000?style=for-the-badge&logo=nunit&logoColor=white)
 
-### **Databases & Cloud**
+### ** Databases & Cloud**
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -39,16 +52,8 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **DevOps & Tools**
+### ** DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -62,9 +67,9 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 
 
-## Achievements & Certifications
+##  Achievements & Certifications
 
-### Professional Certifications
+###  Professional Certifications
 - **Microsoft Solutions Architect (MCSE)** - Expert Level
 - **Microsoft Certified Database Administrator (MCDBA)**
 - **Microsoft AI Engineer Associate**
@@ -76,7 +81,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ---
 
-## Current Projects
+##  Current Projects
 
 <div align="center">
   <table>
@@ -109,7 +114,8 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ---
 
-## Professional Experience
+
+##  Professional Experience
 
 ### **Texas Instruments** - *20 Years*
 **Worldwide IT & Supply Chain Systems*
@@ -130,7 +136,17 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ---
 
-## Let's Connect!
+##  Currently Learning
+
+- **AI/ML Integration** - Exploring machine learning in healthcare applications
+- **Advanced Kubernetes** - Service mesh and cloud-native patterns
+- **Blockchain Development** - Smart contracts and DeFi protocols
+- **Edge Computing** - IoT and distributed systems
+- **Quantum Computing** - Emerging quantum algorithms and applications
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-jeffreys-313b247/" target="_blank">
@@ -186,5 +202,11 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Feel+free+to+reach+out!;Happy+coding!" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with lots of ☕</sub>
 </div>
 
