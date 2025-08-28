@@ -1,6 +1,12 @@
 
 
+
+
 ## About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Supporter;Driving+Emerging+Technologies;Tenacious+Troubleshooter" alt="Typing SVG" />
+</div>
 
 I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 years of experience building scalable enterprise applications and optimizing development workflows. I love solving complex problems and creating elegant solutions that make a difference.
 
@@ -8,14 +14,6 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ## Tech Stack
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,6 +32,15 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -50,7 +57,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
   <img src="https://github-profile-trophy.vercel.app/?username=Portal-Doctor&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-### 🎓 Professional Certifications
+### Professional Certifications
 - **Microsoft Solutions Architect (MCSE)** - Expert Level
 - **Microsoft Certified Database Administrator (MCDBA)**
 - **Microsoft AI Engineer Associate**
@@ -62,7 +69,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 <div align="center">
   <table>
@@ -95,24 +102,24 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Texas Instruments** - *20 Years*
 **Worldwide IT & Supply Chain Systems*
 
 **Key Achievements:**
-- 🌍 **Global IT Infrastructure** - Managed worldwide IT systems and supply chain operations
-- 🔄 **System Integration** - Connected disparate systems across multiple continents
-- 📊 **Supply Chain Optimization** - Streamlined global manufacturing and distribution processes
-- 🛡️ **Enterprise Security** - Implemented robust security measures for multinational operations
-- 💼 **Business Process Automation** - Developed automated solutions for complex business workflows
-- 🌐 **Multi-Region Support** - Provided technical support and system maintenance across global offices
+- **Global IT Infrastructure** - Solution Architect for Texas Instrumnets worldwide IT systems and supply chain operations
+- **System Integration** - Connected disparate systems across multiple continents in near real-time
+- **Supply Chain Optimization** - Optimized global manufacturing and distribution processes
+- **Enterprise Security** - Implemented robust security measures for multinational operations
+- **Business Process Automation** - Developed automated solutions for complex business workflows
+- **Multi-Region Support** - Provided technical support and system maintenance across global offices
 
 ### **Additional Experience**
-- 🏥 **Healthcare Technology** - Built comprehensive patient management and portal systems
-- 💳 **Financial Services** - Implemented secure payment processing and fraud detection systems
-- ☁️ **Cloud Architecture** - Designed and deployed scalable cloud infrastructure solutions
-- 🔧 **DevOps & CI/CD** - Optimized deployment pipelines and automation workflows
+- **Semiconductor Technology** - Patented microscopic shielding system to improve performance
+- **Financial Services** - Implemented secure payment processing and fraud detection systems
+- **Cloud Architecture** - Designed and deployed scalable cloud infrastructure solutions
+- **DevOps & CI/CD** - Optimized deployment pipelines and automation workflows
 
 ---
 
