@@ -65,10 +65,9 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
 ## Achievements & Certifications
 
 ### Professional Certifications
-- **Microsoft Solutions Architect (MCSE)** - Expert Level
+- **Microsoft Solutions Architect (MCSE)**
 - **Microsoft Certified Database Administrator (MCDBA)**
 - **Microsoft AI Engineer Associate**
-- **AWS Certified Solutions Architect** - Associate & Professional
 - **Microsoft Azure Solutions Architect** - Expert
 - **Google Cloud Professional Cloud Architect**
 - **Certified Kubernetes Administrator (CKA)**
