@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Tech Stack</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Tech Stack</h2>
 </div>
 
 
@@ -71,7 +71,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Achievements & Certifications</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Achievements & Certifications</h2>
 </div>
 
 ###  Professional Certifications
@@ -87,7 +87,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Current Projects</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Current Projects</h2>
 </div>
 
 <div align="center">
@@ -123,7 +123,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Professional Experience</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Professional Experience</h2>
 </div>
 
 ### **Texas Instruments** - *20 Years*
@@ -146,7 +146,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Currently Learning</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Currently Learning</h2>
 </div>
 
 - **AI/ML Integration** - Exploring machine learning in healthcare applications
@@ -158,7 +158,7 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 ---
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; color: #00FF00; margin: 20px 0;">Let's Connect!</h2>
+  <h2 style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; color: #00FF00; margin: 20px 0;">Let's Connect!</h2>
 </div>
 
 <div align="center">
@@ -175,40 +175,32 @@ I'm a passionate **Full Stack Web**, **Mobile Developer**, and **DevOps Engineer
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Portal-Doctor&theme=radical&hide=contribs,issues,prs,repos,email" alt="Profile Details" />
   
-  <table style="width: 100%; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border-radius: 10px; border: 1px solid #30363D; padding: 20px; margin: 10px 0;">
-    <tr>
-      <td colspan="3" style="text-align: center; padding-bottom: 15px;">
-        <h3 style="color: #00FF00; margin: 0; font-size: 18px; font-weight: bold;">Top Languages</h3>
-      </td>
-    </tr>
-    <tr>
-      <td style="color: #FFFFFF; font-weight: bold; padding: 8px 0; width: 80px;">React</td>
-      <td style="padding: 8px 10px;">
-        <div style="background: #30363D; border-radius: 8px; height: 16px; overflow: hidden;">
-          <div style="width: 45%; height: 100%; background: linear-gradient(90deg, #61DAFB, #4ECDC4); border-radius: 8px;"></div>
+  <div style="width: 100%; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border-radius: 10px; border: 1px solid #30363D; padding: 20px; margin: 10px 0;">
+    <h3 style="color: #00FF00; margin: 0 0 20px 0; font-size: 18px; font-weight: bold; text-align: center;">Top Languages</h3>
+    <div style="display: flex; flex-direction: column; gap: 15px;">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">React</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 20px; overflow: hidden; position: relative;">
+          <div style="width: 45%; height: 100%; background: linear-gradient(90deg, #61DAFB, #4ECDC4); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-      </td>
-      <td style="color: #FFFFFF; font-weight: bold; text-align: right; padding: 8px 0; width: 50px;">45%</td>
-    </tr>
-    <tr>
-      <td style="color: #FFFFFF; font-weight: bold; padding: 8px 0;">C#</td>
-      <td style="padding: 8px 10px;">
-        <div style="background: #30363D; border-radius: 8px; height: 16px; overflow: hidden;">
-          <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #239120, #4CAF50); border-radius: 8px;"></div>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 50px; text-align: right;">45%</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">C#</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 20px; overflow: hidden; position: relative;">
+          <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #239120, #4CAF50); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-      </td>
-      <td style="color: #FFFFFF; font-weight: bold; text-align: right; padding: 8px 0;">30%</td>
-    </tr>
-    <tr>
-      <td style="color: #FFFFFF; font-weight: bold; padding: 8px 0;">Angular</td>
-      <td style="padding: 8px 10px;">
-        <div style="background: #30363D; border-radius: 8px; height: 16px; overflow: hidden;">
-          <div style="width: 15%; height: 100%; background: linear-gradient(90deg, #DD0031, #FF5722); border-radius: 8px;"></div>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 50px; text-align: right;">30%</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">Angular</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 20px; overflow: hidden; position: relative;">
+          <div style="width: 15%; height: 100%; background: linear-gradient(90deg, #DD0031, #FF5722); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-      </td>
-      <td style="color: #FFFFFF; font-weight: bold; text-align: right; padding: 8px 0;">15%</td>
-    </tr>
-  </table>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 50px; text-align: right;">15%</span>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
