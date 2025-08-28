@@ -148,27 +148,27 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** with over 35 y
   
   <div style="background: linear-gradient(45deg, #0D1117, #161B22); border-radius: 10px; padding: 20px; margin: 10px 0; border: 1px solid #30363D;">
     <h3 style="color: #00FF00; margin: 0 0 15px 0; text-align: center;">Top Languages</h3>
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <span style="color: #FFFFFF; font-weight: bold;">React</span>
-        <div style="width: 200px; background: #30363D; border-radius: 5px; overflow: hidden;">
-          <div style="width: 45%; height: 20px; background: #61DAFB; border-radius: 5px;"></div>
+    <div style="display: flex; flex-direction: column; gap: 15px;">
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">React</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 12px; overflow: hidden; position: relative;">
+          <div style="width: 45%; height: 100%; background: linear-gradient(90deg, #61DAFB, #4ECDC4); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-        <span style="color: #FFFFFF; margin-left: 10px;">45%</span>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 40px; text-align: right;">45%</span>
       </div>
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <span style="color: #FFFFFF; font-weight: bold;">C#</span>
-        <div style="width: 200px; background: #30363D; border-radius: 5px; overflow: hidden;">
-          <div style="width: 30%; height: 20px; background: #239120; border-radius: 5px;"></div>
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">C#</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 12px; overflow: hidden; position: relative;">
+          <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #239120, #4CAF50); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-        <span style="color: #FFFFFF; margin-left: 10px;">30%</span>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 40px; text-align: right;">30%</span>
       </div>
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <span style="color: #FFFFFF; font-weight: bold;">Angular</span>
-        <div style="width: 200px; background: #30363D; border-radius: 5px; overflow: hidden;">
-          <div style="width: 15%; height: 20px; background: #DD0031; border-radius: 5px;"></div>
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 80px;">Angular</span>
+        <div style="flex: 1; background: #30363D; border-radius: 8px; height: 12px; overflow: hidden; position: relative;">
+          <div style="width: 15%; height: 100%; background: linear-gradient(90deg, #DD0031, #FF5722); border-radius: 8px; transition: width 0.3s ease;"></div>
         </div>
-        <span style="color: #FFFFFF; margin-left: 10px;">15%</span>
+        <span style="color: #FFFFFF; font-weight: bold; min-width: 40px; text-align: right;">15%</span>
       </div>
     </div>
   </div>
